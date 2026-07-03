@@ -1,163 +1,211 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aimane Guechchani</h1>
+<h3 align="center">Full Stack Web Developer from Morocco 🇲🇦</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d9e3f16-6e88-4d9d-9d52-8f77f4fcb2f5.gif" width="400">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+Developer;Laravel+Developer;PHP+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-# Aimane Guechchani
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2d9e3f16-6e88-4d9d-9d52-8f77f4fcb2f5.gif" width="450">
+</p>
 
-### Full Stack Web Developer · Morocco 🇲🇦
+<p align="center">
+  <a href="https://linkedin.com/in/aimane-guechchani-52527140a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Developer;Laravel+Developer;PHP+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <a href="mailto:aimane.guechchani.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<br>
+  <a href="https://github.com/devAymane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimane-guechchani-52527140a)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimane.guechchani.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAymane)
-[![Morocco](https://img.shields.io/badge/Based%20in-Morocco-C1272D?style=for-the-badge)]()
+  <img src="https://img.shields.io/badge/Morocco-🇲🇦-red?style=for-the-badge"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=devAymane&label=Profile%20Views&color=2E9EF7&style=flat-square" />
-<img src="https://img.shields.io/github/followers/devAymane?label=Followers&style=flat-square&color=2E9EF7"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaborations-2ea44f?style=flat-square"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=devAymane&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/devAymane?label=Followers&style=flat&color=blue"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-success?style=flat"/>
+</p>
 
-</div>
+---
 
-<br>
+# 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+> **"Turning ideas into modern, scalable and human-friendly web experiences."**
 
-> *"Turning ideas into modern, scalable and human-friendly web experiences."*
+Hi there 👋 — I'm **Aimane Guechchani**, a passionate **Full Stack Web Developer** based in **Morocco**.
 
-I'm **Aimane Guechchani**, a passionate **Full Stack Web Developer** based in Morocco. I enjoy transforming ideas into modern, scalable and user-friendly web applications — whether it's architecting a clean REST API, building responsive interfaces, or fine-tuning the user experience down to the smallest detail.
+I enjoy transforming ideas into modern, scalable and user-friendly web applications.
 
-I love solving real-world problems through clean code, creative thinking and continuous learning. I'm equally comfortable on the **Frontend** with React & Tailwind CSS, and on the **Backend** with PHP, Laravel & MySQL.
+Whether it's architecting a clean REST API, building responsive interfaces or improving user experience, I always pay attention to the smallest details.
 
-**🎯 Goal:** Become a Senior Full Stack Developer, contribute to impactful projects, collaborate with talented teams, and keep mastering modern technologies.
+I love solving real-world problems through clean code, creative thinking and continuous learning.
 
-<br>
+I'm equally comfortable building Frontend applications with **React** and **Tailwind CSS**, as well as Backend applications with **PHP**, **Laravel**, and **MySQL**.
 
-## 🛠️ Tech Stack
+🎯 **Goal**
 
-<div align="center">
+Become a Senior Full Stack Developer, contribute to impactful projects, collaborate with talented teams and keep learning modern technologies.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql" />
+---
 
-</div>
+# 🛠️ Tech Stack
 
-<br>
+<p align="center">
 
-## 🧰 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql"/>
 
-<div align="center">
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
-<br><br>
+---
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+# 🧰 Tools
 
-</div>
+<p align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop"/>
 
-## 🌱 Currently Learning
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 
-| | |
-|---|---|
-| ⚛️ | Advanced React |
-| 🎯 | Laravel Best Practices |
-| 🔌 | REST APIs |
-| 🔐 | Authentication & Authorization |
-| 🏛️ | Clean Architecture |
-| ⚡ | Performance Optimization |
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
-<br>
+</p>
 
-## 🚀 Featured Projects
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+# 🌱 Currently Learning
 
-### 🔎 GitHub Profile Finder
+- ⚛️ Advanced React
+- 🎯 Laravel Best Practices
+- 🔌 REST APIs
+- 🔐 Authentication & Authorization
+- 🏛️ Clean Architecture
+- ⚡ Performance Optimization
+
+---
+
+# 🚀 Featured Projects
+
+## 🔎 GitHub Profile Finder
+
 A modern JavaScript web application that lets users search GitHub profiles using the official GitHub API.
 
-**Stack:** HTML5 · CSS3 · JavaScript · Fetch API · GitHub API · Local Storage
+### Tech Stack
 
-🌐 [**Live Demo**](https://github-website-bmoo.vercel.app/)
+- HTML5
+- CSS3
+- JavaScript
+- Fetch API
+- GitHub API
+- Local Storage
 
-</td>
-<td width="50%" valign="top">
+🌐 **Live Demo**
 
-### 🍔 Foodiez
+https://github-website-bmoo.vercel.app/
+
+---
+
+## 🍔 Foodiez
+
 A modern food order management web application built with Vanilla JavaScript.
 
-**Stack:** HTML5 · Tailwind CSS · JavaScript · Fetch API · JSON Server · REST API
+### Tech Stack
 
-🌐 [**Live Demo**](https://foudiez-gcjv.vercel.app/)
+- HTML5
+- Tailwind CSS
+- JavaScript
+- Fetch API
+- JSON Server
+- REST API
 
-</td>
-</tr>
-</table>
+🌐 **Live Demo**
 
-<br>
+https://foudiez-gcjv.vercel.app/
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+# 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devAymane&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAymane&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devAymane&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devAymane&show_icons=true&theme=tokyonight"/>
 
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=devAymane&theme=tokyo-night&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAymane&layout=compact&theme=tokyonight"/>
 
-<img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAymane&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devAymane&theme=tokyonight"/>
 
-## 🏆 Achievements
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devAymane&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devAymane&theme=tokyo-night"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-## 🐍 Contribution Snake
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAymane&theme=tokyonight"/>
 
-<div align="center">
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+---
 
-</div>
+# 🏆 Achievements
 
-<br>
+<p align="center">
 
-## 🤝 Let's Connect
+<img src="https://github-profile-trophy.vercel.app/?username=devAymane&theme=tokyonight&margin-w=15&margin-h=15"/>
 
-<div align="center">
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimane.guechchani.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimane-guechchani-52527140a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAymane)
+---
 
-</div>
+# 🤝 Connect With Me
 
-<br>
+<p align="center">
 
-> 💡 **Fun fact:** *"I believe every bug is an opportunity to learn something new."*
+<a href="mailto:aimane.guechchani.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://linkedin.com/in/aimane-guechchani-52527140a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/devAymane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 👋 Thanks for visiting my profile!
+</p>
 
+---
+
+# 💡 Fun Fact
+
+> ✨ **"I believe every bug is an opportunity to learn something new."**
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">
+👋 Thanks for visiting my profile!
+</h3>
+
+<p align="center">
 Feel free to connect with me and let's build something amazing together 🚀
-
-</div>
+</p>
